@@ -9,7 +9,7 @@ http.createServer((req, res) => {
 
 function createBot() {
     const bot = mineflayer.createBot({
-        host: 'YOUR_SERVER_IP_HERE', // Put your Server IP here
+        host: '28kits.minefort.com', // Put your Server IP here
         port: 25565,
         username: 'SDA_Guardian',
         version: '1.21.1',
